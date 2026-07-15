@@ -1,0 +1,27 @@
+# ---------- Python ----------
+backend/venv/
+backend/__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+backend/.env
+
+# ---------- React ----------
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
